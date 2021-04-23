@@ -25,7 +25,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/KamrynCutler/Parstagram/blob/main/ezgif.com-gif-maker.mp4' />
+<img src='https://github.com/KamrynCutler/Parstagram/blob/main/ezgif.com-gif-maker.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part II
 
@@ -33,7 +33,7 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 
 Time spent: **4** hours spent in total
 
-## Demo: 
+## Demo: https://github.com/KamrynCutler/Parstagram/blob/main/ezgif.com-gif-maker.gif
 
 ## User Stories
 
@@ -53,4 +53,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/KamrynCutler/Parstagram/blob/main/ezgif.com-gif-maker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
