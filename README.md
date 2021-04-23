@@ -4,6 +4,8 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 
 Time spent: **6** hours spent in total
 
+## Demo: 
+
 ## User Stories
 
 The following **required** functionality is completed:
@@ -30,6 +32,8 @@ Here's a walkthrough of implemented user stories:
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
 Time spent: **4** hours spent in total
+
+## Demo: 
 
 ## User Stories
 
